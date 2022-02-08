@@ -1,6 +1,6 @@
 # Recode-Atividade-Pratica-3
 Terceira Atividade Prática.
-O projeto foi divido em tres pastas:
+O projeto foi divido em 3 pastas:
 - Backend
 - Frontend
 - Modelagem de dados
