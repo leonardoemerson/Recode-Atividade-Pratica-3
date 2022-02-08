@@ -5,6 +5,7 @@ O projeto foi divido em tres pastas:
 - Frontend
 - Modelagem de dados
 
+Observações:
 - Na pasta modelagem de dados constam uma modelagem teórica que foi usada no projeto anterior e uma modelagem prática que foi usado no atual projeto
 
 - Na pasta backend consta um novo back-end usando tecnologias Java
