@@ -1,5 +1,5 @@
 # Recode-Atividade-Pratica-3
-Terceira Atividade Prática
+Terceira Atividade Prática.
 O projeto foi divido em tres pastas:
 - Backend
 - Frontend
